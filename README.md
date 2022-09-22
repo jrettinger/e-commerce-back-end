@@ -10,4 +10,4 @@ Jason's Object-Relational Mapping (ORM) Challenge: E-commerce Back End
   
 
   ## Link to my repository
-<a href="https://github.com/jrettinger/e-commerce-back-end target= blank>Link to my repository</a>
+<a href="https://github.com/jrettinger/e-commerce-back-end" target= blank>Link to my repository</a>
