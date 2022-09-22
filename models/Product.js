@@ -8,6 +8,7 @@ const Category = require("./Category");
 class Product extends Model {}
 
 // set up fields and rules for Product model
+// define columns
 Product.init(
   {
     id: {
@@ -42,7 +43,6 @@ Product.init(
         key: "id",
       },
     },
-    // define columns
   },
   {
     sequelize,
